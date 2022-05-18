@@ -11,5 +11,6 @@ String version=resource.getString("version");%>
  <h3> Ansible project is completed successufully with CICD approach </h3>
  <h4>Welcome</h4
  <h5>gitclasses</h5>
+ <h6>Welcome to jenkins classes</h6>
 </body>
 </html>
